@@ -47,3 +47,6 @@ Man könnte im Logfile vom Exchange Server nachsehen, oder aber alle Geräte auf
 ### Welche besonderen Probleme gibt es beim Update des Android Betriebssystems?
 Da wären einmal die hohe Fragmentierung des Markts, und der Umstand das nur Nexus aktuell ist.
 
+### Welche bedeutung für die Security hat der USB-Zugang?
+
+Ein USB-Zugang ist immer ein Einfallstor für potentielle Angreifer (Android Debug Bridge) und ein Sicherheitsrisiko
