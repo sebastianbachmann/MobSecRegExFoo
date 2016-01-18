@@ -50,3 +50,16 @@ Da wären einmal die hohe Fragmentierung des Markts, und der Umstand das nur Nex
 ### Welche bedeutung für die Security hat der USB-Zugang?
 
 Ein USB-Zugang ist immer ein Einfallstor für potentielle Angreifer (Android Debug Bridge) und ein Sicherheitsrisiko
+
+### Bis zu welchem Android-OS-Level funktionier der _adb restore_ symlink exploit by Bin4ry?
+
+Der _Bug_ wurde in der Android Version 4.1 geschlossen
+
+# Welche Möglichkeit besteht ein Security Assement eines Mobilen Devices durchzuführen?
+
+- NowSecure, 
+- Remote Sperren
+- iAudtior
+- ScoreCards
+- Drozer
+
