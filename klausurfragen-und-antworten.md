@@ -39,3 +39,7 @@ Mehr Informationen: [Security Question Cheat Sheet](https://www.owasp.org/index.
 ### Was sind implizite Intents?
 
 Implizite Intents werden zum ausführen von Aktionen auf Android Devices verwendet. Zum Beispiel soll eine Webseite geöffnet werden, und der Benutzer kann - wenn er mehrere Browser installiert hat - auswählen in welchem Browser die Webseite geöffnet werden soll.
+
+### Woran könnte man mittels eines Mobile Security Management Systems merken, dass ein Mobile Device verloren gegangen ist?
+
+Man könnte im Logfile vom Exchange Server nachsehen, oder aber alle Geräte auf ein auffälliges Online verhalten untersuchen
