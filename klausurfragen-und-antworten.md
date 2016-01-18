@@ -35,3 +35,7 @@ Mehr Informationen: [Security Question Cheat Sheet](https://www.owasp.org/index.
 ### Welches Protokoll ist zwingend notwendig um eine sichere 401 authentification request session zu bekommen?
 
 401 ist ein Statuscode und steht für _Unauthorized (Nicht autorisiert)_ Der Fehlercode sagt aus das, _Die Anfrage kann nicht ohne gültige Authentifizierung durchgeführt werden. Wie die Authentifizierung durchgeführt werden soll, wird im „WWW-Authenticate“-Header-Feld der Antwort übermittelt._ Wikipedia [HTTP-Statuscode](https://de.wikipedia.org/wiki/HTTP-Statuscode#4xx_.E2.80.93_Client-Fehler)
+
+### Was sind implizite Intents?
+
+Implizite Intents werden zum ausführen von Aktionen auf Android Devices verwendet. Zum Beispiel soll eine Webseite geöffnet werden, und der Benutzer kann - wenn er mehrere Browser installiert hat - auswählen in welchem Browser die Webseite geöffnet werden soll.
