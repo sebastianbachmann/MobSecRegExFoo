@@ -43,3 +43,7 @@ Implizite Intents werden zum ausführen von Aktionen auf Android Devices verwend
 ### Woran könnte man mittels eines Mobile Security Management Systems merken, dass ein Mobile Device verloren gegangen ist?
 
 Man könnte im Logfile vom Exchange Server nachsehen, oder aber alle Geräte auf ein auffälliges Online verhalten untersuchen
+
+### Welche besonderen Probleme gibt es beim Update des Android Betriebssystems?
+Da wären einmal die hohe Fragmentierung des Markts, und der Umstand das nur Nexus aktuell ist.
+
