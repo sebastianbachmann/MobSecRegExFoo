@@ -30,3 +30,8 @@ Im Grunde gibt es keine _guten_ Security Questions. Firmen wollen dadurch lästi
 - **Safe**: eine Antwort auf eine Security Question sollte schwer zu raten und/oder zu recherchieren sein
 
 Mehr Informationen: [Security Question Cheat Sheet](https://www.owasp.org/index.php/Choosing_and_Using_Security_Questions_Cheat_Sheet)
+
+
+### Welches Protokoll ist zwingend notwendig um eine sichere 401 authentification request session zu bekommen?
+
+401 ist ein Statuscode und steht für _Unauthorized (Nicht autorisiert)_ Der Fehlercode sagt aus das, _Die Anfrage kann nicht ohne gültige Authentifizierung durchgeführt werden. Wie die Authentifizierung durchgeführt werden soll, wird im „WWW-Authenticate“-Header-Feld der Antwort übermittelt._ Wikipedia [HTTP-Statuscode](https://de.wikipedia.org/wiki/HTTP-Statuscode#4xx_.E2.80.93_Client-Fehler)
